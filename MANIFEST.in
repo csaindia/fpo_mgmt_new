@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include fpo_mgmt *.css
+recursive-include fpo_mgmt *.csv
+recursive-include fpo_mgmt *.html
+recursive-include fpo_mgmt *.ico
+recursive-include fpo_mgmt *.js
+recursive-include fpo_mgmt *.json
+recursive-include fpo_mgmt *.md
+recursive-include fpo_mgmt *.png
+recursive-include fpo_mgmt *.py
+recursive-include fpo_mgmt *.svg
+recursive-include fpo_mgmt *.txt
+recursive-exclude fpo_mgmt *.pyc

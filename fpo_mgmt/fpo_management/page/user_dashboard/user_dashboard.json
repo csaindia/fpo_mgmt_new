@@ -1,0 +1,38 @@
+{
+ "content": null, 
+ "creation": "2018-10-12 16:32:46.026772", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2018-11-27 15:03:46.647338", 
+ "modified_by": "Administrator", 
+ "module": "FPO Management", 
+ "name": "user-dashboard", 
+ "owner": "Administrator", 
+ "page_name": "User Dashboard", 
+ "roles": [
+  {
+   "role": "FPO User"
+  }, 
+  {
+   "role": "Customer"
+  }, 
+  {
+   "role": "Agriculture User"
+  }, 
+  {
+   "role": "Quality Manager"
+  }, 
+  {
+   "role": "Stock User"
+  }, 
+  {
+   "role": "Administrator"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "system_page": 0, 
+ "title": "Fpo User"
+}
