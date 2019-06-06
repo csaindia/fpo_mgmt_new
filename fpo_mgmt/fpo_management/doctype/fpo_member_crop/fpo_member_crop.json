@@ -163,7 +163,7 @@
    "label": "Crop ID", 
    "length": 0, 
    "no_copy": 0, 
-   "options": "MCROP-", 
+   "options": "MCROP-.YYYY.-", 
    "permlevel": 0, 
    "precision": "", 
    "print_hide": 0, 
