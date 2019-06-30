@@ -6,7 +6,7 @@ def get_data():
 	return [
 		{
 			"module_name": "FPO Management",
-			"color": "grey",
+			"color": "#b4ff9c",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("FPO Management")
